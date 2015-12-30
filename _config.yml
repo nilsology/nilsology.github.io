@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: *nils
+email: info@nilsology.net
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: nilsology
+github_username:  nilsology
 
 # Build settings
 markdown: kramdown
@@ -17,13 +17,8 @@ highlighter: pygments
 paginate: 15
 paginate_path: "/blog/page:num/"
 
-
 collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
-
 

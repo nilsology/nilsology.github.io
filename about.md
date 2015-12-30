@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /markus/
+permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
@@ -18,4 +18,3 @@ permalink: /markus/
 <div class="col three caption">
   Fast route: use twitter or email to reach me on the move.
 </div>
-
