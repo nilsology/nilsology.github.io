@@ -5,8 +5,12 @@ permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
-<p>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.</p>
-<br/>
+
+Hi there, my name is Nils Koppelmann, online though I go by nilsology. Basically I am a self-employed webdeveloper and design enthusiastic person.
+
+I started this blog to from time to time portrait my ideas on the technical aspects of life, therefore this weblog wont (as of now) focus on anything style or fashion related.
+
+**Disclaimer**: This is not my business site. For business inquiries please visit [nilskoppelmann.de](http://nilskoppelmann.de).
 <hr/>
 <br/>
 <span class="contacticon center">
