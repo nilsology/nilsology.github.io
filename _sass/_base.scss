@@ -8,6 +8,18 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+h2,h3,h4 {
+  line-height: 2*$base-line-height;
+}
+
+h5,h6 {
+  line-height: 1.5*$base-line-height;
+}
+
+img {
+  width: 100%;
+}
+
 
 
 /** Variables **********************************************/

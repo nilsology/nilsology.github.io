@@ -12,13 +12,3 @@ github_username:  nilsology
 markdown: kramdown
 
 highlighter: pygments
-
-# Pagination
-#paginate: 
-paginate_path: "/blog/page:num/"
-
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-
